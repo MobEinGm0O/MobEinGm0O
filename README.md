@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @MobEinGm0O
-
-- 🌱 currently learning cybersec
-- 💞️ I’m looking to collaborate on my discord @mobeingmo
-
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: greyhat
-
-<!---
-MobEinGm0O/MobEinGm0O is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Skilled in Reverse Engineering, Forensics, PWN, Web, OSINT, Cryptograpghy, Steganothrophy, Binary Exploitation and Linux privillage Escalation.
+- 2x local CTF winner and participant.
+- 250+ challenges solved in online CTFs.
+- python, javascript, java, assembly, HTML5 + CSS, cpp and Rust.
+- ASU Certified in Digital Active and Passive Footprinting.
+- PicoCTF progress: 61.62%.
+- OverTheWire Bandit all 100 levels completed. 
