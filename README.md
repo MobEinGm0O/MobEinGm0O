@@ -4,4 +4,4 @@
 - python, javascript, java, assembly, HTML5 + CSS, cpp and Rust.
 - ASU Certified in Digital Active and Passive Footprinting.
 - PicoCTF progress: 61.62%.
-- OverTheWire Bandit all 100 levels completed. 
+- OverTheWire Bandit all 34 levels completed. 
