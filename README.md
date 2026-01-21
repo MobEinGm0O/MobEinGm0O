@@ -5,3 +5,5 @@
 - ASU Certified in Digital Active and Passive Footprinting.
 - PicoCTF progress: 61.62%.
 - OverTheWire Bandit all 34 levels completed. 
+- Debian & Windows Dual Boot 
+- Pentest home lab owner
